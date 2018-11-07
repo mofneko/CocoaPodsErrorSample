@@ -1,0 +1,30 @@
+PODS:
+  - Eureka (4.3.0)
+  - Realm (3.11.1):
+    - Realm/Headers (= 3.11.1)
+  - Realm/Headers (3.11.1)
+  - RealmSwift (3.11.1):
+    - Realm (= 3.11.1)
+  - SwiftIconFont (2.9.1)
+
+DEPENDENCIES:
+  - Eureka
+  - RealmSwift
+  - SwiftIconFont
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Eureka
+    - Realm
+    - RealmSwift
+    - SwiftIconFont
+
+SPEC CHECKSUMS:
+  Eureka: 6d711cb30ca333b4bc893110285a722ae3840114
+  Realm: 037c5919b9ceb59d6beed5d3b031096856b119b3
+  RealmSwift: c9580133e73ef40ed340401af2dbc9a5790dfea7
+  SwiftIconFont: c6d0073f1fa7e03a81b6daf2d8fa8d6ac62b7711
+
+PODFILE CHECKSUM: 15cc64407d67acff1c88d99e66bb9c870541d7d2
+
+COCOAPODS: 1.5.3
